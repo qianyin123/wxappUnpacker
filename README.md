@@ -24,7 +24,7 @@ npm install js-beautify
 
 # 反编译
 
-node wuWxapkg.js  //files ——————————  //files 就是你想要反编译的文件名
+node wuWxapkg.js  //files  ________  //files 就是你想要反编译的文件名
 
 
 # 分包功能
